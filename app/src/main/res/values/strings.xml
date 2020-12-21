@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidJetPack</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pro">pro</string>
+    <string name="no1">no1</string>
+</resources>
