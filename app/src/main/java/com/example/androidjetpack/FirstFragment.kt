@@ -19,8 +19,6 @@ class FirstFragment : Fragment() {
         savedInstanceState: Bundle?): View? {
         binding = DataBindingUtil.inflate(inflater, R.layout.fragment_first, container, false)
         return binding.root
-        print("asd")
-        print("asds")
     }
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
