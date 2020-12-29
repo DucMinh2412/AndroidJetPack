@@ -80,6 +80,7 @@ class FirstFragment : Fragment() {
                 e("af", dataDoingWork + "")
             }
         })
+        e()
     }
 
 }
