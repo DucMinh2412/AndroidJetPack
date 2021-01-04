@@ -78,10 +78,9 @@ class FirstFragment : Fragment() {
             if (workInfo.state.isFinished) {
                 val dataDoingWork = workInfo.outputData.getString(DUC_NO_PRO_2)
                 e("af", dataDoingWork + "")
-                e("af", dataDoingWork + "")
             }
         })
-        
+        e()
     }
 
 }
